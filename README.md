@@ -1,4 +1,4 @@
-eLiveShow\
+eLiveShow
 
 Autori:\
 Faris Crnčalo\
