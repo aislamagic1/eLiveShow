@@ -1,3 +1,6 @@
+eLiveShow\
+
+Autori:\
 Faris Crnčalo\
 Aldin Islamagić\
 Anes Ćenanović\
